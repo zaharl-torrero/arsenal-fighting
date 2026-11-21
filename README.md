@@ -23,4 +23,4 @@ GitHub Actions публикует сайт в GitHub Pages после push в `m
 
 Основное сообщество, предоставленное заказчиком: https://vk.ru/arsenalfighting. Контакты, направления и клубное фото взяты из https://arsenalfighting.orgs.biz/. Телефон и адрес следует сверить с администрацией перед официальным запуском. Расписание, цены и спортивные регалии не выдуманы и не заявлены. Кнопки записи ведут в сообщество клуба; сайт не собирает персональные данные и не имитирует отправку заявки.
 
-Иллюстративная фотография ринга: Unsplash https://unsplash.com/photos/74dfcbf7dbed (image endpoint: https://images.unsplash.com/photo-1549719386-74dfcbf7dbed). Она не обозначена как фотография зала клуба. Фото команды — из исходной страницы клуба. Шрифты Manrope и Oswald — Google Fonts, SIL Open Font License.
+Hero photo (boxing gloves): Unsplash https://images.unsplash.com/photo-1549719386-74dfcbf7dbed. Она не обозначена как фотография зала клуба. Фото команды — из исходной страницы клуба. Шрифты Manrope и Oswald — Google Fonts, SIL Open Font License.
